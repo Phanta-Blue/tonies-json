@@ -15,15 +15,29 @@ data:
   web: https://tonies.com/de-de/tonies/nico-sternbaum/nico-sternbaum-schuettel-den-weihnachtsbaum/
   shop-id: ddc2bd70-5c2a-45bc-b784-bcafb0486466
   track-desc:
-  - Schüttel den Weihnachtsbaum – Einführung
-  - Beim Tannenbaum
-  - Bei den Eichhörnchenkindern
-  - Bei Familie Maus
-  - Bei Herrn Igel
-  - Bei den Hasenkindern
-  - Bei Familie Reh
-  - Bei den Vögeln
-  - Beim Tannenbaum schmücken
-  - Wir haben allen geholfen
-  - Mitmach-Lied mit Weihnachtsbaum-Strophe
-  ids: []
+  01 - Schüttel den Weihnachtsbaum – Einführung
+  02 - Beim Tannenbaum
+  03 - Bei den Eichhörnchenkindern
+  04 - Bei Familie Maus
+  05 - Bei Herrn Igel
+  06 - Bei den Hasenkindern
+  07 - Bei Familie Reh
+  08 - Bei den Vögeln
+  09 - Beim Tannenbaum schmücken
+  10 - Wir haben allen geholfen
+  11 - Mitmach-Lied mit Weihnachtsbaum-Strophe
+  12 - Weck den Weihnachtswichtel - Einleitung
+  13 - Weck Nils den Wichtel
+  14 - Nils und der Nussknacker
+  15 - Weck die Weihnachtsmaus
+  16 - Wunschzettel malen
+  17 - Ein Geschenk für das Eichhörnchen
+  18 - Magisches Wichtelpulver
+  19 - Eine Zauber-Lichterkette
+  20 - Wir haben dem Wichtel geholfen
+  21 - Mitmach-Lied mit Weck den Weihnachtswichtel-Strophe
+- audio-id: 1789040570
+  hash: 303769a669934b63c5f5d6ae8afe0b6b71a11113
+  size: 35133633
+  tracks: 21
+  confidence: 0
